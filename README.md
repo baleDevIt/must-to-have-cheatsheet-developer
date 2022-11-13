@@ -23,3 +23,5 @@ A collection of best tools, framework, library and more for a Full stack develop
 # Other tools
 [README.so](https://readme.so/) - Our simple editor allows you to quickly add and customize all the sections you need for your project's readme
 [Regexr](https://regexr.com/) - RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+[Uneed](https://www.uneed.best/) - The best tools on the internet, curated by hand, daily
+
